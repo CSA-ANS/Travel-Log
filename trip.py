@@ -15,7 +15,7 @@ Trip Program
 Version 1.0.1
 This is my trip program
 The user can input their country, description, month, and transport for their vacation.
-They can then save this and view info about the program
+They can then save this and view info about the program with added comments and textbox character limit
 '''
 
 # Ammaar Siddiqui
